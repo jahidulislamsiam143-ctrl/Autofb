@@ -11,7 +11,7 @@
     "username": "Sifat143",
     "password": "sifat",
     "expiresAt": "2026-02-27",
-    "allowOffline": true
+    "allowOffline": false
   },
     {
     "id": "127f9733973232a0",
